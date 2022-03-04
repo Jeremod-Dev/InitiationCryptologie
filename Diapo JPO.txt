@@ -1,0 +1,5 @@
+Math discrete -> Cryptanalyse
+Probabilité et statistique -> Attaque frequentielle
+Droit des TIC -> Données sont hasher
+Gestion des SI -> Sécurité informatique primordial
+Communication -> Code correcteur (bruit communicationnel)
